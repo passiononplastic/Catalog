@@ -1,0 +1,12 @@
+{
+  "proseWrap": "preserve",
+  "overrides": [
+    {
+      "files": "*.json",
+      "options": {
+        "htmlWhitespaceSensitivity": "ignore",
+        "trailingSpace": false
+      }
+    }
+  ]
+}
